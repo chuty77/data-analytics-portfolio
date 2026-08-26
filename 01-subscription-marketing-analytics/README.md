@@ -41,7 +41,7 @@ If these two tables were merged or summed, the resulting dashboard would look cl
 - **Preserved anomalies and gaps as findings**, labeling nulls as `(not set)` and letting un-computable metrics return blank rather than a misleading zero.
 
 ---
-![Facebook finding](images/facebook-finding.png)
+![Facebook finding](images/facebook-finding.PNG)
 ## 5 Key Insights
 
 **1. The click-to-session gap is the finding, not an error.**
