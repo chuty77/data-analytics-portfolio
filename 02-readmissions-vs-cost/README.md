@@ -4,7 +4,7 @@
 **Skills demonstrated:** Blending two independent sources at different grains, harmonizing mismatched categories, distinguishing structural gaps from findings, value-based analysis
 
 ---
-
+![Average cost by specialty overview](images/avg-cost-by-specialty.PNG)
 ## The Problem
 
 Healthcare organizations increasingly measure not just *what care costs*, but whether that spending buys *better outcomes* — the core idea behind value-based care. Answering that requires joining two very different worlds:
@@ -40,7 +40,7 @@ The challenge: these two sources live at **different grains** and use **differen
 
 ## Dashboard
 
-![Dashboard overview](images/dashboard-overview.png)
+![Scatter cost vs readmission overview](images/scatter-cost-vs-readmission.PNG)
 
 *(scatter of cost vs. readmission rate by specialty — the flat line is the finding)*
 
