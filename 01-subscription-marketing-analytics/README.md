@@ -6,7 +6,7 @@
 ---
 
 ## The Problem
-![Dashboard overview](images/dashboard-overview.png)
+![Dashboard overview](images/dashboard-overview.PNG)
 A pharmaceutical display campaign was measured by two completely different systems, and the business wanted a single, trustworthy view of performance:
 
 - **DCM (ad server)** — what was *delivered*: 4,244 rows of impressions and clicks across 21 sites and 57 placements over 10 months.
