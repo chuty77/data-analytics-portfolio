@@ -61,6 +61,7 @@ The share of invoiced amounts actually collected points to room for improvement 
 **5. Separating paid from unpaid is what makes the risk number honest.**
 By nulling out `DaysOverdue` for paid invoices and bucketing them as `N/A (Paid)`, the overdue figures reflect only genuinely open exposure. Without that step, paid invoices would dilute the aging analysis and understate the real risk — a small modeling decision with a large effect on trust.
 
+## Bucket
 ![Cash Flow & Vendor Risk buckets](images/bucket-days.PNG)
 ---
 
