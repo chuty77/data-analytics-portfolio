@@ -37,11 +37,11 @@ This is a value-analysis question: raw cost by condition is easy, but the insigh
 
 ## Dashboard
 
-![Dashboard overview](images/dashboard-overview.png)
+![Dashboard overview](images/dashboard-overview.PNG)
 
 **Cost by condition — with above-average conditions highlighted:**
 
-![Cost by condition](images/cost-condition.png)
+![Cost by condition](images/cost-condition.PNG)
 
 *Red bars are conditions above the overall average cost; grey are below. The FIXED LOD provides the constant benchmark line the classification depends on.*
 
