@@ -37,7 +37,7 @@ This is a value-analysis question: raw cost by condition is easy, but the insigh
 
 ## Dashboard
 
-![Dashboard overview](images/dashboard-overview.PNG)
+![Dashboard overview](images/dashboard.PNG)
 
 **Cost by condition — with above-average conditions highlighted:**
 
