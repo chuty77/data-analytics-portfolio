@@ -6,7 +6,7 @@
 ---
 
 ## The Problem
-![Dashboard overview](images/dashboard-overview.PNG)
+
 A pharmaceutical display campaign was measured by two completely different systems, and the business wanted a single, trustworthy view of performance:
 
 - **DCM (ad server)** — what was *delivered*: 4,244 rows of impressions and clicks across 21 sites and 57 placements over 10 months.
@@ -39,8 +39,10 @@ If these two tables were merged or summed, the resulting dashboard would look cl
 - **Built a cross-source KPI, Click-to-Session Rate**, that neither table could produce on its own.
 - **Validated every total against the source** (113,052,983 impressions; 295,599 clicks; 135,765 sessions).
 - **Preserved anomalies and gaps as findings**, labeling nulls as `(not set)` and letting un-computable metrics return blank rather than a misleading zero.
-
+Dasboard
+![Dashboard overview](images/dashboard-overview.PNG)
 ---
+Facebook Finding
 ![Facebook finding](images/facebook-finding.PNG)
 ## 5 Key Insights
 
